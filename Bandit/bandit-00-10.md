@@ -94,7 +94,7 @@ cat .hidden-file
 
 ## Screenshot
 
-![Level 03 Screenshot](images/level-03.png)
+![Level 03 Screenshot](images/03.png)
 
 ---
 
@@ -119,7 +119,7 @@ cat ./-file07
 
 ## Screenshot
 
-![Level 04 Screenshot](images/level-04.png)
+![Level 04 Screenshot](images/04.png)
 
 ---
 
@@ -143,7 +143,7 @@ cat ./maybehere07/.file2
 
 ## Screenshot
 
-![Level 05 Screenshot](images/level-05.png)
+![Level 05 Screenshot](images/05.png)
 
 ---
 
@@ -166,7 +166,7 @@ find / -type f -user bandit7 -group bandit6 -size 33c 2>/dev/null
 
 ## Screenshot
 
-![Level 06 Screenshot](images/level-06.png)
+![Level 06 Screenshot](images/06.png)
 
 ---
 
@@ -189,7 +189,7 @@ grep "millionth" data.txt
 
 ## Screenshot
 
-![Level 07 Screenshot](images/level-07.png)
+![Level 07 Screenshot](images/07.png)
 
 ---
 
@@ -212,7 +212,7 @@ sort data.txt | uniq -u
 
 ## Screenshot
 
-![Level 08 Screenshot](images/level-08.png)
+![Level 08 Screenshot](images/08.png)
 
 ---
 
@@ -235,7 +235,7 @@ strings data.txt | grep "^==="
 
 ## Screenshot
 
-![Level 09 Screenshot](images/level-09.png)
+![Level 09 Screenshot](images/09.png)
 
 ---
 
@@ -258,4 +258,4 @@ base64 --decode data.txt
 
 ## Screenshot
 
-![Level 10 Screenshot](images/level-10.png)
+![Level 10 Screenshot](images/10.png)
